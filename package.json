@@ -1,0 +1,16 @@
+{
+"name": "jackpotxopg",
+"theme": "jackpotxo pg",
+"version": "10.1.7",
+"description": "jackpotxo pg ทางเข้าเว็บไซต์แทงบอลเว็บตรง อันดับ 1 ให้เครดิตฟรี",
+"keywords": [
+"jackpotxo pg",
+"jackpotxo pg เครดิตฟรี",
+"jackpotxo pg ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/jackpotxopg",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
